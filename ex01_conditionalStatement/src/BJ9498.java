@@ -19,5 +19,7 @@ public class BJ9498 {
 		}
 		else
 			System.out.println("F");
+		
+		sc.close();
 	}
 }

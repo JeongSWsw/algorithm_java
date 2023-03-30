@@ -15,5 +15,7 @@ public class BJ1330 {
 	    else{
 	    	System.out.println("==");
 	    }
+	    scanner.close();
 	  }
+	
 }
