@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.metadata/.plugins/org.eclipse.egit.core/.org.eclipse.egit.core.cmp/.org.eclipse.egit.core.cmp.iml" filepath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.egit.core/.org.eclipse.egit.core.cmp/.org.eclipse.egit.core.cmp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex01_conditionalStatement/ex01_conditionalStatement.iml" filepath="$PROJECT_DIR$/ex01_conditionalStatement/ex01_conditionalStatement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex02_iteration/ex02_iteration.iml" filepath="$PROJECT_DIR$/ex02_iteration/ex02_iteration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex03_array/ex03_array.iml" filepath="$PROJECT_DIR$/ex03_array/ex03_array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex04_multiple_divisor/ex04_multiple_divisor.iml" filepath="$PROJECT_DIR$/ex04_multiple_divisor/ex04_multiple_divisor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex05_sort/ex05_sort.iml" filepath="$PROJECT_DIR$/ex05_sort/ex05_sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex06_string/ex06_string.iml" filepath="$PROJECT_DIR$/ex06_string/ex06_string.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex07_dataStructure/ex07_dataStructure.iml" filepath="$PROJECT_DIR$/ex07_dataStructure/ex07_dataStructure.iml" />
+    </modules>
+  </component>
+</project>
