@@ -13,7 +13,17 @@ public class BJ2587 {
 			arr[i] = Integer.parseInt(br.readLine());
 			sum += arr[i];
 		}
-		Arrays.sort(arr);
+		
+		for(int i = 1; i < arr.length; i++) {
+			for (int j = 0; j < arr.length-i; j++) {
+				if(arr[j]>arr[j+1]) {
+					int temp = arr[j];
+					arr[j] = arr[j+1];
+					arr[j+1] = temp;
+				}
+			}
+		}
+		
 		System.out.println(sum/5);
 		System.out.println(arr[2]);
 		
